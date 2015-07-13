@@ -12,8 +12,13 @@ rel/emqttd*
 .rebar
 test/ebin/*.beam
 .exrc
+plugins/
 plugins/*/ebin
 log/
 *.swp
 *.so
 examples
+.idea/
+*.ipr
+*.iml
+*.iws
